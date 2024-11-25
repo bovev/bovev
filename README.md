@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bovev, an entrepreneuer running a data analytics company called DataSauna.
 - 👀 I’m interested in data analytics, web development and LLMs.
-- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on commercial analytics projects.
 - 📫 You can reach me through email valtteri.bovellan@datasauna.fi
 
